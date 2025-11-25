@@ -40,17 +40,19 @@
     "url": "https://nevermined.ai/docs",
     "icon": "https://icons.duckduckgo.com/ip3/nevermined.ai.ico",
     "slug": "nevermined-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 623,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 405,
+    "timeDay": 591,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
+    "dailyMinutesDown": {
+      "2025-11-25": 16
+    }
   }
 ]
