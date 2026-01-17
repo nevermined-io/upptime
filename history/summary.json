@@ -33,18 +33,20 @@
     "url": "https://nevermined.app",
     "icon": "https://icons.duckduckgo.com/ip3/nevermined.app.ico",
     "slug": "nevermined-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 504,
-    "timeWeek": 510,
-    "timeMonth": 499,
-    "timeYear": 509,
-    "dailyMinutesDown": {}
+    "time": 511,
+    "timeDay": 567,
+    "timeWeek": 525,
+    "timeMonth": 503,
+    "timeYear": 511,
+    "dailyMinutesDown": {
+      "2026-01-17": 0
+    }
   },
   {
     "name": "Nevermined Docs",
